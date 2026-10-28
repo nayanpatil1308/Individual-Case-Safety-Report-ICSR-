@@ -1,96 +1,56 @@
-# Individual-Case-Safety-Report-ICSR-
-### Pharmacovigilance Internship Project 
-## 1. Introduction
-An Individual Case Safety Report (ICSR) is a structured report used to document information about one or more suspected adverse reactions associated with a medicinal product in an individual patient.
-ICSRs are an important part of pharmacovigilance because they help healthcare professionals and regulatory authorities monitor the safety of medicines, identify potential risks, and protect patients.
-## 2. Objectives
-- To understand the meaning and importance of an ICSR.
-- To learn the essential elements of an adverse drug reaction report.
-- To understand how patient and medicine information is documented.
-- To learn the basic process of ICSR preparation and reporting.
-- To understand the role of ICSR in pharmacovigilance and drug safety monitoring.
-## 3. Essential Elements of an ICSR
-A valid ICSR generally requires four minimum elements:
-1. **Identifiable patient:** Information sufficient to distinguish the patient, such as an anonymized patient identifier.
-2. **Identifiable reporter:** Information identifying the person reporting the case.
-3. **Suspected medicinal product:** The medicine suspected of causing the reaction.
-4. **Suspected adverse reaction:** The reported unwanted medical event or reaction.
-Additional information improves the quality of the report.
-## 4. Information Included in an ICSR
-### A. Patient Information
-- Patient identifier or code
-- Age or age group
-- Sex, when available
-- Relevant medical history
-### B. Suspected Medicine Information
-- Medicine name
-- Dose and route of administration
-- Frequency and duration of use
-- Start and stop dates, if known
-- Indication for use
-### C. Adverse Reaction Information
-- Description of the reaction
-- Date of onset
-- Signs and symptoms
-- Relevant laboratory results
-- Treatment provided
-- Outcome of the reaction
-### D. Additional Information
-- Concomitant medicines
-- Relevant medical conditions
-- Dechallenge or rechallenge information, if available
-- Seriousness criteria
-- Causality assessment, when applicable
-- Reporter details and follow-up information
-## 5. ICSR Preparation Process
-1. **Receive the report:** Collect information from a healthcare professional, patient, or other valid source.
-2. **Check minimum criteria:** Verify that the four essential elements are available.
-3. **Collect case details:** Record the patient, suspected medicine, reaction, and relevant history.
-4. **Assess the case:** Review seriousness, expectedness, and causality where applicable.
-5. **Check data quality:** Identify missing, inconsistent, or duplicate information.
-6. **Document the report:** Enter verified information into the appropriate reporting form or safety database.
-7. **Submit the report:** Follow applicable regulatory requirements and reporting timelines.
-8. **Follow up:** Obtain additional information when available and update the case record.
-## 6. Seriousness Classification
-An ICSR may describe a serious or non-serious suspected adverse reaction.
-A case is generally considered serious if it results in:
-- Death
-- A life-threatening condition
-- Hospitalization or prolonged hospitalization
-- Persistent or significant disability or incapacity
-- A congenital anomaly or birth defect
-- Another medically important event requiring intervention to prevent a serious outcome
-Severity and seriousness are different concepts. Severity describes the intensity of the reaction, while seriousness is based on defined medical and regulatory criteria.
-## 7. Hypothetical Case Example
-**Case summary:** A patient develops a skin rash after taking a prescribed medicine.
-- Patient identifier: Patient A
-- Suspected medicine: Medicine X
-- Reported reaction: Skin rash
-- Time of onset: After starting the medicine; exact date not provided
-- Treatment: To be documented from verified case information
-- Outcome: Unknown unless follow-up information is available
-- Seriousness: Cannot be determined without sufficient case details
-- Causality: Requires assessment using the available evidence
-This example demonstrates how an ICSR can be organized without inventing missing clinical details.
-## 8. Importance of ICSR in Pharmacovigilance
-- Helps collect and organize suspected adverse reaction information.
-- Supports the detection of potential drug safety signals.
-- Helps regulatory authorities evaluate medicine safety.
-- Supports risk assessment and safety monitoring.
-- Encourages accurate reporting and documentation.
-- Contributes to safer medicine use and patient care.
-## 9. Learning Outcomes
-Through this internship task, I developed an understanding of ICSR structure, minimum reporting criteria, patient and medicine information collection, seriousness classification, and the importance of accurate pharmacovigilance documentation.
-This activity helped strengthen my knowledge of drug safety monitoring and adverse drug reaction reporting.
-## 10. Conclusion
-The Individual Case Safety Report is a fundamental tool in pharmacovigilance. Accurate and complete ICSR documentation helps healthcare professionals and regulatory authorities evaluate suspected adverse reactions and monitor the safety of medicines. Proper reporting contributes to improved patient safety and the responsible use of medicinal products.
-## References
-1. International Council for Harmonisation (ICH): [Official website](https://www.ich.org/)
-2. European Medicines Agency (EMA): [Good pharmacovigilance practices](https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/pharmacovigilance-post-authorisation/good-pharmacovigilance-practices)
-3. Indian Pharmacopoeia Commission (IPC): [Official website](https://ipc.gov.in/)
-4. World Health Organization (WHO): [Pharmacovigilance resources](https://www.who.int/teams/regulation-prequalification/regulation-and-safety/pharmacovigilance)
-## Disclaimer
-This repository is intended for educational and internship purposes only. Actual ICSR preparation and submission must follow applicable regulatory requirements. Patient confidentiality must be maintained, and identifiable patient information must not be published on GitHub.
+# Individual Case Safety Report (ICSR)
+## Adverse Drug Reaction Case Study
+**Department:** Pharmacovigilance  
+**Patient Name:** Prakash Namdev Patil  
+**Age:** 45 years  
+**Healthcare Facility:** Sanjivni Clinic, Shirpur  
+**Suspected Drug:** Amoxicillin
+### 1. Introduction
+An Individual Case Safety Report (ICSR) is a structured report used to document a suspected adverse drug reaction (ADR) in an individual patient. It includes patient information, suspected medicines, adverse reactions, medical history, treatment details, and causality assessment.
+### 2. Patient and Case Information
+- **Patient:** Prakash Namdev Patil
+- **Age:** 45 years
+- **Hospital/Clinic:** Sanjivni Clinic, Shirpur
+- **Suspected reaction:** Skin rash, itching, and dizziness
+- **Date of onset:** Approximately two days before assessment
+- **Drug initiation:** Approximately five days before assessment
+- **Report type:** Suspected ADR case
+- **Seriousness:** Non-serious, as recorded in the original report
+- **Outcome:** Not documented
+### 3. Suspected and Concomitant Medicines
+| Medicine | Role | Details |
+|---|---|---|
+| Amoxicillin | Suspected medicine | Dose, route, and indication not available |
+| Paracetamol | Concomitant medicine | Used as needed; dose and frequency not available |
+### 4. Description of the Adverse Reaction
+The patient reportedly developed skin rash, itching, and dizziness after starting amoxicillin. The medicine had been initiated approximately five days before the assessment, while the symptoms began approximately two days before the assessment. Paracetamol was also used as needed.
+The available information suggests a possible relationship between amoxicillin and the reported reactions. However, detailed clinical examination, allergy history, laboratory findings, and information about stopping the suspected medicine were not available.
+### 5. Causality Assessment
+**Recorded causality: Probable**
+The original report classified the relationship between amoxicillin and the reported reactions as probable. This assessment should be verified against the information available in the case file and the causality method used. A complete independent assessment is limited because dechallenge information, alternative causes, and detailed clinical findings are unavailable.
+### 6. Seriousness and Outcome
+- **Seriousness:** Non-serious, according to the original report.
+- **Recovery status:** Not documented.
+- **Action taken with amoxicillin:** Not documented.
+- **Treatment for the reaction:** Not documented.
+The seriousness classification should be verified against the applicable criteria and complete clinical information. If symptoms are ongoing or worsening, the patient should seek prompt medical evaluation.
+### 7. Missing Information
+The following details should be collected, if available:
+1. Patient's sex and relevant medical history.
+2. Amoxicillin dose, route, frequency, and indication.
+3. Start date and last dose of amoxicillin.
+4. Previous drug allergies and relevant clinical history.
+5. Treatment provided for the reaction.
+6. Whether symptoms improved after stopping the medicine.
+7. Recovery status and final clinical outcome.
+8. Reporter details and report date.
+9. Relevant laboratory results or supporting medical records.
+### 8. Pharmacovigilance Significance
+This case demonstrates the importance of recognizing, documenting, and assessing suspected adverse drug reactions. Complete and accurate information helps pharmacovigilance professionals evaluate possible medicine-related risks and support patient safety.
+### 9. Conclusion
+This ICSR documents a suspected adverse reaction involving amoxicillin in a 45-year-old patient associated with Sanjivni Clinic, Shirpur. The reported symptoms were skin rash, itching, and dizziness. The original report recorded the causality as probable and classified the reaction as non-serious. Since the outcome and several medication details are missing, follow-up information is needed to improve the completeness and reliability of the report.
+**Keywords:** Individual Case Safety Report (ICSR), Pharmacovigilance, Adverse Drug Reaction, Amoxicillin, Causality Assessment, Patient Safety, ADR Reporting.
+**Disclaimer:** This is an educational case report prepared from the supplied information. It is not a verified clinical record or an official regulatory submission. Missing information has not been assumed or invented.
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9dbc7fbf-d375-446a-a87f-468fdc71008f" />
 
